@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434135208848",
+    "project_id": "app-desporto",
+    "storage_bucket": "app-desporto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434135208848:android:613249ed5f4ae08578d915",
+        "android_client_info": {
+          "package_name": "com.example.appdesporto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--VyUd9_wRuRb2RKsednIddXmCKGd2JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
